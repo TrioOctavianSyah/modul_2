@@ -19,7 +19,7 @@ class Latihan extends StatelessWidget {
               //Digunakan agar widget mengisi ruang kosong pada layar
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: <Widget>[
-                //Widget Pertamaa
+                //Widget Pertama
                 Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
